@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSWebAPI", "TPSWebAPI\TPSWebAPI.csproj", "{EB61EDE6-6B0A-443C-9881-7C04FC4BDB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB61EDE6-6B0A-443C-9881-7C04FC4BDB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB61EDE6-6B0A-443C-9881-7C04FC4BDB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB61EDE6-6B0A-443C-9881-7C04FC4BDB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB61EDE6-6B0A-443C-9881-7C04FC4BDB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827AF081-38E5-4594-9F6C-376C7F343097}
+	EndGlobalSection
+EndGlobal
